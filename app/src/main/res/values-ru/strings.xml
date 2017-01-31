@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="play_button">Играть</string>
+    <string name="category_to_pick">Выберите категорию</string>
+    <string name="town_category_button">Города</string>
+    <string name="flags_category_button">Флаги</string>
+    <string name="other_questions_category_button">Интересныые вопросы</string>
+</resources>

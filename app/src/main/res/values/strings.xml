@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BonVoyage</string>
+    <string name="play_button">Play</string>
+    <string name="information_button">i</string>
+    <string name="category_to_pick">Pick category</string>
+    <string name="town_category_button">Towns</string>
+    <string name="flags_category_button">Flags</string>
+    <string name="other_questions_category_button">Interesting questions</string>
+</resources>
